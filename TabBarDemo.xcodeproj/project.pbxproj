@@ -13,6 +13,7 @@
 		47C4A832208F74CD0046469B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47C4A830208F74CD0046469B /* Main.storyboard */; };
 		47C4A834208F74DB0046469B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47C4A833208F74DB0046469B /* Assets.xcassets */; };
 		47C4A837208F74DB0046469B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47C4A835208F74DB0046469B /* LaunchScreen.storyboard */; };
+		47D5CBA7208F93B400C7826E /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D5CBA6208F93B400C7826E /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		47C4A833208F74DB0046469B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47C4A836208F74DB0046469B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47C4A838208F74DB0046469B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47D5CBA6208F93B400C7826E /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				47C4A82C208F74CD0046469B /* FirstViewController.swift */,
 				47C4A82E208F74CD0046469B /* SecondViewController.swift */,
 				47C4A830208F74CD0046469B /* Main.storyboard */,
+				47D5CBA6208F93B400C7826E /* ThirdViewController.swift */,
 				47C4A833208F74DB0046469B /* Assets.xcassets */,
 				47C4A835208F74DB0046469B /* LaunchScreen.storyboard */,
 				47C4A838208F74DB0046469B /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				47C4A82F208F74CD0046469B /* SecondViewController.swift in Sources */,
 				47C4A82B208F74CD0046469B /* AppDelegate.swift in Sources */,
+				47D5CBA7208F93B400C7826E /* ThirdViewController.swift in Sources */,
 				47C4A82D208F74CD0046469B /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
